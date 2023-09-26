@@ -240,7 +240,7 @@ body{
 .navbar__nav .navbar__user2{
   display: none;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1333px) {
   .navbar,
   .navbar:hover{
     max-width: 1110px;
